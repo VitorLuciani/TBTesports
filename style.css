@@ -264,3 +264,12 @@ button:active
 	margin: 0px 0px 20px 0px;
 	
 }
+.video {
+    width: 40%;
+    margin-top: 45px;
+    margin-left: 400px;
+    margin-right: 200px;
+    border: 2px solid #fdb200;
+    border-radius: 25px;
+}
+
