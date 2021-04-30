@@ -107,22 +107,6 @@ nav ul li a /* Cor e fonte do menu */
 	transform: translate(-13%, -42%);
 }
 
-/* Estilo Imagem banner sem fundo 
-
-.imgbg
-{
-	height: 490px;
-	position: absolute;
-	bottom: 40px;
-	left: 67%;
-	transform: translateX(-70%);
-
-}*/
-
-
-
-
-
 /*caixa do meio Sobre*/
 .conteudo-sobre
 {
@@ -175,8 +159,8 @@ nav ul li a /* Cor e fonte do menu */
 /* parte do Alguns jogos tamanho do retangulo*/
 .servicos
 {
-	height: 108px;
-	background-color: gray;
+    height: 108px;
+    background-color: gray;
     border-radius: 10px;
     border: 4px double #000000;
     border-color: #fdb200;
@@ -185,7 +169,8 @@ nav ul li a /* Cor e fonte do menu */
  .servicos-textos
 {
     color: #000000;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     font-size: 20px;
     padding-right: 1px;
     margin-top: 5px;
