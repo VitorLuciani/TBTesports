@@ -53,7 +53,7 @@ nav ul
 nav ul li a /* Cor e fonte do menu */ 
 {
 	margin: 30px;
-	font-family: myriad pro regular;
+	font-family:Georgia, 'Times New Roman', Times, serif;
 	color: #ffffff;
 	font-size: 20px;
 	font-weight: 700;
