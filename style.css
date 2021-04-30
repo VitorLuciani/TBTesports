@@ -4,7 +4,7 @@ body
 	background-color: #ffffff;
 	margin-right: 0px;
 	padding: 0px;
-	display: grid;
+    display:grid;
 }
 
 ul
@@ -107,7 +107,6 @@ nav ul li a /* Cor e fonte do menu */
 	top: 42%;
 	transform: translate(-13%, -42%);
 }
-
 /*caixa do meio Sobre*/
 .conteudo-sobre
 {
@@ -160,8 +159,8 @@ nav ul li a /* Cor e fonte do menu */
 /* parte do Alguns jogos tamanho do retangulo*/
 .servicos
 {
-    height: 108px;
-    background-color: gray;
+	height: 108px;
+	background-color: gray;
     border-radius: 10px;
     border: 4px double #000000;
     border-color: #fdb200;
