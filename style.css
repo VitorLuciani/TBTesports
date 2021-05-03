@@ -159,21 +159,21 @@ nav ul li a /* Cor e fonte do menu */
 .servicos
 {
 	height: 108px;
-	background-color: gray;
+	background-color: #ffffff;
     border-radius: 10px;
-    border: 4px double #000000;
     border-color: #fdb200;
+	
+	text-align: center;
 }
  /* parte do Alguns jogos cor e tamanho da font*/
  .servicos-textos
 {
-    color: #000000;
+    color: #320a57;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
     font-size: 20px;
-    padding-right: 1px;
+ 
     margin-top: 5px;
-    margin-bottom: 5px;
     height: 100px;
     padding-left: 5px;
 }
@@ -208,7 +208,7 @@ nav ul li a /* Cor e fonte do menu */
 	text-align:center;
     align-items: center;
 	width: 250px;
-	color: #3e3e3e;
+	color: #ee0505;
 	margin: 0px 0px 20px 0px;
 	
 }
@@ -216,8 +216,7 @@ nav ul li a /* Cor e fonte do menu */
 .video {
     width: 40%;
     margin-top: 45px;
-    margin-left: 400px;
-    margin-right: 200px;
+    margin-left: 60px;
     border: 2px solid #fdb200;
     border-radius: 25px;
 }
@@ -229,8 +228,7 @@ nav ul li a /* Cor e fonte do menu */
     background-color: #fdb200;
     width: 30%;
     margin-top: 45px;
-    margin-left:  450px;
-    margin-right: 400px;
+    margin-left:  500px;
     border-radius:50px;
 
 }
